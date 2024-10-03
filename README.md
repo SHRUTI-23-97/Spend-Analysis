@@ -1,1 +1,1 @@
-# Spend-Analysis
+•	Created a comprehensive Power BI report using the 'Spend Analysis' data file, featuring summary pages for top-selling products and top-buying vendors, detailed supplier information, and product order details with drill-through navigation.
